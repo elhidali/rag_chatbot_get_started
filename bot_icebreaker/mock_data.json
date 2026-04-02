@@ -1,0 +1,74 @@
+{
+  "public_identifier": "leonkatsnelson",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/leonkatsnelson/profile",
+  "first_name": "Leon",
+  "last_name": "Katsnelson",
+  "full_name": "Leon Katsnelson",
+  "occupation": "Director and Chief Technology Officer, IBM Skills Network",
+  "headline": "Director and Chief Technology Officer, IBM Skills Network",
+  "summary": "Leon Katsnelson is the Director and Chief Technology Officer for IBM Skills Network. He leads the development of next generation learning technologies, including integration of LLMs and generative AI to create personalized learning experiences for millions of learners around the globe.",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2020
+      },
+      "ends_at": null,
+      "company": "IBM",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ibm/",
+      "title": "Director and Chief Technology Officer, IBM Skills Network",
+      "description": "Leading the architecture and development of the IBM Skills Network platform, integrating AI and modern cloud native architectures to serve millions of students.",
+      "location": "Toronto, Ontario, Canada"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2019
+      },
+      "company": "IBM",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ibm/",
+      "title": "Director, Emerging Technologies",
+      "description": "Directed engineering teams on advanced analytics, distributed computing, and emerging open source software.",
+      "location": "Toronto, Ontario, Canada"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 1985
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 1989
+      },
+      "field_of_study": "Computer Science",
+      "degree_name": "Bachelor of Science - BS",
+      "school": "University of Toronto",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-toronto/"
+    }
+  ],
+  "skills": [
+    "Artificial Intelligence (AI)",
+    "Cloud Computing",
+    "Machine Learning",
+    "Software Architecture",
+    "Generative AI",
+    "Data Science",
+    "Big Data"
+  ],
+  "languages": [
+    "English",
+    "Russian"
+  ],
+  "certifications": []
+}
